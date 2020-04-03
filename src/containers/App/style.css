@@ -1,0 +1,25 @@
+* {
+	outline: none;
+}
+
+.h__z-index_1 {
+	z-index: 1;
+}
+
+.h__hover_dark:hover {
+	background: #f0f0f0;
+}
+
+.h__cursor_pointer{
+	cursor: pointer;
+}
+
+
+.main__warn{
+	top: 0;
+	left: 0;
+}
+
+.sort__td{
+	width: 33.3%;
+}
